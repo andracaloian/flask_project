@@ -1,2 +1,2 @@
-# flask_project
+# flask_project .
 # python 3.*
